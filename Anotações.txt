@@ -1,0 +1,9 @@
+$ git remote add origin https://github.com/tarcisiobarbosa/DIO.git
+$ git branch -M main
+
+traz o código fonte para sua pasta
+
+$ git pull origin main --allow-unrelated-histories
+$ git add *
+$ git commit -m "adicionando novos arquivos"
+
