@@ -1,8 +1,8 @@
-# GitHub
+GitHub
 https://github.com/
 
-# Git 
+Git 
 https://git-scm.com/
 
-#Linkedin
+Linkedin
 https://www.linkedin.com/in/tarcisio-barbosa/
